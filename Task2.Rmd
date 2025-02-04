@@ -1,0 +1,36 @@
+---
+title: "R Markdown Example"
+author: "Amir Hossein Ayazi Hashjin"
+date: "`r format(Sys.Date(), '%m/%d/%Y')`"
+---
+
+# Welcome to My R Markdown Example
+
+This is an example of how to create and knit an R Markdown document. Below, you will find examples of headers, text formatting, tables, images, and hyperlinks. 
+
+## Technical Skills
+
+Here is a table showcasing some of my technical skills:
+
+| Skills           | Proficiency |
+|-----------------|-------------|
+| R Programming   | Advanced    |
+| Python          | Advanced    |
+| SQL             | Intermediate|
+| Data Analysis   | Advanced    |
+
+### Example Image
+
+Here is an image of the Golden Gate Bridge:
+
+![Golden Gate Bridge](https://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg "Golden Gate Bridge")
+
+### Link to Finviz
+
+Visit the [Finviz website](https://finviz.com/) for financial market visualization tools.
+
+---
+
+**Note:** This document demonstrates how to format content in R Markdown. You can add more customization as needed.
+
+*Thank you for reviewing!*
